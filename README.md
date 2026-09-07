@@ -19,4 +19,4 @@ noTest=true
 
 ## Memcached-cache and Mybatis-redis ##
 
-These modules test runs require caching setup to exist.  The property noTest allows the aggregator to ignore this as travis-ci does.
+These modules test runs require caching setup to exist.  The property noTest allows the aggregator to ignore this as github actions does.
